@@ -118,7 +118,7 @@ protected:
 					else
 					{
 						tracker->update(buffer);
-                        ofSleepMillis(30); // give the tracker a moment
+                        ofSleepMillis(12); // give the tracker a moment
 					}
 
 					unlock();
