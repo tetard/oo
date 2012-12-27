@@ -1,14 +1,14 @@
 -
 =
 
-### Ö FaceTracking, FaceSubstitution Swiss Army Knife
+### oo FaceTracking, FaceSubstitution Swiss Army Knife
 
-Ö is a FaceTracking & FaceSubstitution tools used by Freeka Tet for his own performances
+oo is a FaceTracking & FaceSubstitution tools used by Freeka Tet for his own performances
 
 Code by [Camille Troillard](http://www.osculator.net/) & [Freeka Tet](www.o--o.co) 
 
 
-All ofxFaceTracker and Ö code are available under the MIT license, while FaceTracker is provided free for non-commercial use. For commercial use, please contact the author of FaceTracker, Jason Saragih.
+All ofxFaceTracker and oo code are available under the MIT license, while FaceTracker is provided free for non-commercial use. For commercial use, please contact the author of FaceTracker, Jason Saragih.
 
 ### Credits: 
 
